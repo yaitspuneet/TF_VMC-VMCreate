@@ -1,6 +1,7 @@
 # TF_VMC-VMCreate
 
 The repo contains 2 files
+    
     a. CreateVM.tf : This is the main terraform code configuration file
     b. vars.tf: This is the file where you declare the variables used in the main terraform code.
 
